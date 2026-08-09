@@ -29,3 +29,5 @@ You can open the HTML files directly in any browser to view the website locally.
 
 ## Contact
 If you would like to connect, collaborate, or discuss projects, feel free to reach out through the contact page.
+## live demo
+ https://sanchitrai288-sudo.github.io/portfolio/
