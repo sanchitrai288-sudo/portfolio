@@ -34,7 +34,7 @@ If you would like to connect, collaborate, or discuss projects, feel free to rea
  https://sanchitrai288-sudo.github.io/portfolio/
  
 ## Screenshots:
-<img width="1763" height="1298" alt="Screenshot_9-8-2026_14447_sanchitrai288-sudo github io" src="https://github.com/user-attachments/assets/e06d5595-f1f1-4d1b-b1ea-c3af8d654dda" />
 <img width="1840" height="899" alt="Screenshot_9-8-2026_14351_sanchitrai288-sudo github io" src="https://github.com/user-attachments/assets/62d8ac10-c04f-48b2-92b9-16153d8796bc" />
 <img width="1909" height="930" alt="Screenshot_9-8-2026_14414_sanchitrai288-sudo github io" src="https://github.com/user-attachments/assets/0fc4f608-220d-4443-859f-48b789c324db" />
 <img width="1763" height="1278" alt="Screenshot_9-8-2026_14432_sanchitrai288-sudo github io" src="https://github.com/user-attachments/assets/60c7f79d-147a-456f-86b0-2d1ab5cb49a9" />
+<img width="1763" height="1298" alt="Screenshot_9-8-2026_14447_sanchitrai288-sudo github io" src="https://github.com/user-attachments/assets/e06d5595-f1f1-4d1b-b1ea-c3af8d654dda" />
